@@ -18,7 +18,7 @@ Short answers for the below questions suffice. If you want to alter your plan fo
 
 #### What have you done for your project so far?
 
-I have started coding the Turtle map.
+I have made the map on which the game will be played. I am importing a picture to use as the background (in a similar way to the Hurricane Lab), and the ball has been created using turtle. 
 
 #### What have you not done for your project yet?
 
@@ -26,4 +26,4 @@ I need to
 
 #### What problems, if any, have you encountered?
 
-TODO
+In trying to make a basket toss, I realized that I would have to account for the curve of a throw. In the interest of time, as well as the current Fifa World Cup, a soccer game seemed more accessible. This way, there is no need to account for the parabolic curve of throwing an object, and instead the kick can be linear. 
