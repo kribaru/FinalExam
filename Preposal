@@ -1,0 +1,18 @@
+# Preproposal
+
+## What idea(s) do you have for your final project?
+
+I was thinking of making either a game, or finding a way to search a PDF for names. 
+For the game, I was thinking of replicating one of the old iPhone games, where you would throw a ball of trash into a basket. I also wanted to see if I could do Sudoku or a crossword puzzle, but I feel like those might be too complicated. If not these, I would want to try and make one of those games where the user controls a platform (probably using arrow keys) to make sure a ball keeps bouncing. I would probably use turtle for these games, unless there is a better option for graphics.
+
+In regards to the PDF searcher, I'm currently interning at Temple University Press, which is a publishing company. One of the other interns has mentioned that she has been tasked with going through a pdf and finding any names that are mentioned. Since the pdf is pretty long, this task is very tedious, so I wanted to see if there was a way to automate it or make it easier somehow. I thought of using a program that would use the csv logic or the Dracula text, but there is also the issue that the names are listed as "First Last," so searching for that would likely return any proper nouns, book titles, etc. 
+
+A third option might be a poem-maker, where the user opens a file (like how we opened the Dracula file) and randomly chooses a line or words from a line to make a poem. It would be like blackout poetry, where you would take an already existing work and hiding words until you create a poem from the revealed words. 
+
+## If you plan to collaborate with one or two classmates, what are their names?
+
+n/a
+
+## Do you have any questions of your own?
+
+How do you utilize arrow keys to move an object? When I try to look it up, it gives me results that tell you how to mimic using the keyboard, but I haven't been able to find how to use arrow keys as input. 
